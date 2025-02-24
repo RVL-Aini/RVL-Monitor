@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мониторинг сайтов</string>
+    <string name="monitoring_active">Мониторинг сайтов активен\nПроверка каждые 60 секунд</string>
+    <string name="site_unavailable">Сайт недоступен</string>
+    <string name="connection_error">Ошибка подключения</string>
+    <string name="channel_name">Мониторинг сайтов</string>
+    <string name="channel_description">Уведомления о недоступных сайтах</string>
+</resources>
